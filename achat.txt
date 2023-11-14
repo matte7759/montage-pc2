@@ -1,4 +1,6 @@
 achat composant
-
+achat GPU
 achat processeur 
 achat refroidissement
+achat SSD
+achat ram
