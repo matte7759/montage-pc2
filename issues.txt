@@ -2,3 +2,4 @@ achat et installation processeur
 achat et installation motherboard
 achat et installation ram
 achat et installation refroidissement
+achat et installation GPU
