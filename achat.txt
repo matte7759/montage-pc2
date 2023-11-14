@@ -1,4 +1,10 @@
 achat composant
-
+achat processeur
+achat alim
+achat GPU
 achat processeur 
 achat boitier
+achat refroidissement
+achat SSD
+achat ram
+
