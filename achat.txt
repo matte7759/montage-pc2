@@ -1,3 +1,4 @@
 achat composant
 
-achat processeur 
+achat processeur
+achat alim
