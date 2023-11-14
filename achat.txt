@@ -1,4 +1,4 @@
 achat composant
-
+achat GPU
 achat processeur 
 achat ram
