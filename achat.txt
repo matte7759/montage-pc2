@@ -1,3 +1,5 @@
 achat composant
 
 achat processeur 
+
+achat SSD
